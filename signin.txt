@@ -1,0 +1,2 @@
+git config --global user.name OTISOT
+git config --global user.email clin8798@gmail.com
